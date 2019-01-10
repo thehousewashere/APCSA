@@ -7,7 +7,6 @@ import java.util.Scanner;
  *
  * @author Ethan Holland
  */
-
 public class C5_1 {
 
     /**
@@ -15,7 +14,6 @@ public class C5_1 {
      *
      * @param args command line argument
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter an integer, the input ends if is is 0: ");
