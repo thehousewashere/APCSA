@@ -7,7 +7,6 @@ import java.util.Scanner;
  *
  * @author Ethan Holland
  */
-
 public class P5 {
 
     /**
@@ -15,7 +14,6 @@ public class P5 {
      *
      * @param args command line argument
      */
-
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String vote = "";
