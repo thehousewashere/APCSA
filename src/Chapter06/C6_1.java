@@ -23,9 +23,10 @@ public class C6_1 {
     }
 
     /**
+     * Takes the information above and tells the user
      *
      * @param password - user input
-     * @return
+     * @return true or false
      */
     public static boolean isValid(String password) {
         // Atleast 8 characters
