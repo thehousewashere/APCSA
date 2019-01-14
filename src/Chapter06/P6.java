@@ -56,7 +56,7 @@ public class P6 {
      *
      * @param dollars - Stands for USD
      * @param exchangeRate - Stands for the exchange rate inputed by the user
-     * @return exchangeRate
+     * @return exchangeRate.
      */
     public static double convert(double dollars, double exchangeRate) {
         if (dollars > 100) {
