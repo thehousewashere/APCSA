@@ -52,6 +52,7 @@ public class P6 {
     }
 
     /**
+     * Cureency converter
      *
      * @param dollars takes the user's amount of money
      * @param exchangeRate takes the exchange rate of the money
